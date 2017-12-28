@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="230dp"
+        android:background="@mipmap/mini_bg"
+        >
+        <ImageView
+            android:id="@+id/touxiang"
+            android:layout_width="60dp"
+            android:layout_height="60dp"
+            android:src="@mipmap/header"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="40dp"
+            />
+        <TextView
+            android:id="@+id/mini_login_regTv"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:gravity="center"
+            android:text="当前无需登录，系统为您分配的 ID 是：13524323"
+            android:textColor="@color/white"
+            android:textSize="13sp"
+            android:layout_below="@+id/touxiang"
+            android:layout_marginLeft="10dp"
+            android:layout_centerHorizontal="true"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:orientation="horizontal"
+            android:layout_alignParentBottom="true"
+            android:background="@color/tran_whit"
+            >
+            <TextView
+                android:id="@+id/personTv"
+                android:layout_width="0dp"
+                android:layout_weight="1"
+                android:layout_height="match_parent"
+                android:gravity="center"
+                android:text="根据相关法律法规，暂时无法线上购彩"
+                android:textColor="@color/black"
+                android:textSize="13sp"
+                android:layout_toRightOf="@+id/touxiang"
+                />
+        </LinearLayout>
+
+    </RelativeLayout>
+</LinearLayout>

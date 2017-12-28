@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    <include layout="@layout/layout_common_title"></include>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="none"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+
+            <TextView
+                android:id="@+id/titleTv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="标题"
+                android:textSize="18sp"
+                android:textColor="@color/black_333"
+                android:layout_gravity="center"
+                android:padding="12dp"
+                />
+
+            <TextView
+                android:id="@+id/timeTv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="时间"
+                android:textColor="@color/black_333"
+                android:layout_gravity="center"
+                android:textSize="14sp"
+                android:layout_marginBottom="20dp"
+                />
+
+
+            <TextView
+                android:id="@+id/contentTv"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="16dip"
+                android:textColor="@color/black_666"
+                android:padding="12dp"
+                android:lineSpacingExtra="3dp"
+                android:lineSpacingMultiplier="1.5"
+                android:text="天猫在前天结束的比赛中主场以70-68分战胜火花，是役球队先发五人全部得分上双，其中琳德西-瓦伦进账14分3次助攻，席尔瓦-福尔斯（17个篮板）和玛雅-摩尔分别进账13分，瑞贝卡-布伦森进账12分，西蒙-奥古斯图斯得到11分2次助攻。尽管天猫第二战赢了球，且球队也并没有像首战那样被对手持续压制，但是第二战她们在一度大比分领先的情况下最终之一2分险胜，球队还是感受到了压力。
+
+       第二战火花先发有四人得分上双，其中坎迪斯-帕克得到全队最高的17分并有5个篮板6次助攻3次盖帽，首战取胜功臣切尔西-格雷进账15分4次助攻，恩内卡-奥古米克和奥德赛-西姆斯合力贡献了21分13个篮板7次助攻6次盖帽。在客场与天猫打成1-1平，这对于火花在接下来赛程中的发挥是有利的，明天她们将回到主场迎战对手，而10月2日她们还能拥有一个主场优势。
+
+       天猫在第二战中找回状态，接下来她们需要延续状态并找把握机会在客场追回一城；火花已经争得了先机，而如果能够在两个主场战中全部取胜，那么她们将在家门口卫冕，球队战意无忧，不过以对手的实力来看，火花想要达成这一目标仍会遇到不小的阻力"
+                />
+
+            <View
+                android:layout_width="match_parent"
+                android:layout_height="100dp"></View>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+
+
+
+
+</LinearLayout>

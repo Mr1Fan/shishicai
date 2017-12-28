@@ -1,0 +1,78 @@
+{
+    "code":"1",
+    "message":"success",
+    "data":[{
+           	"uid": "10847450",
+           	"profit": "2000",
+           	"imageUrl": "/upload/userPic/10847450_1.png",
+           	"nickname": "key小马哥",
+           	"canCopyNum": 0,
+           	"ishot": 0
+           }, {
+           	"uid": "11177309",
+           	"profit": "918",
+           	"imageUrl": "/upload/userPic/11177309_8.png",
+           	"nickname": "纽盖特",
+           	"canCopyNum": 0,
+           	"ishot": 0
+           }, {
+           	"uid": "11245846",
+           	"profit": "388",
+           	"imageUrl": "/upload/userPic/11245846_2.png",
+           	"nickname": "Binzi",
+           	"canCopyNum": 0,
+           	"ishot": 0
+           }, {
+           	"uid": "10877791",
+           	"profit": "346",
+           	"imageUrl": "/upload/userPic/10877791_1.png",
+           	"nickname": "财经天下",
+           	"canCopyNum": 1,
+           	"ishot": 0
+           }, {
+           	"uid": "11259919",
+           	"profit": "338",
+           	"imageUrl": "/upload/userPic/11259919_6.png",
+           	"nickname": "芒果大帝",
+           	"canCopyNum": 0,
+           	"ishot": 0
+           }, {
+           	"uid": "11105843",
+           	"profit": "296",
+           	"imageUrl": "",
+           	"nickname": "小野司机",
+           	"canCopyNum": 1,
+           	"ishot": 0
+           }, {
+           	"uid": "11260583",
+           	"profit": "287",
+           	"imageUrl": "",
+           	"nickname": "HKhen",
+           	"canCopyNum": 0,
+           	"ishot": 0
+           }, {
+           	"uid": "11204322",
+           	"profit": "252",
+           	"imageUrl": "/upload/userPic/11204322_1.png",
+           	"nickname": "qq1331*******",
+           	"canCopyNum": 0,
+           	"ishot": 0
+           }, {
+           	"uid": "11150865",
+           	"profit": "228",
+           	"imageUrl": "",
+           	"nickname": "崛起6667",
+           	"canCopyNum": 2,
+           	"ishot": 0
+           }, {
+           	"uid": "11245717",
+           	"profit": "218",
+           	"imageUrl": "",
+           	"nickname": "猜王hou",
+           	"canCopyNum": 0,
+           	"ishot": 1
+           }
+           ],
+    "seqId":"wWemWsaC",
+    "total":0
+}

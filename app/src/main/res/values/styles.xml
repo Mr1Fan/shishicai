@@ -1,0 +1,39 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <!--首页左侧菜单栏的 样式-->
+    <style name="MenuTextStyle">
+        <item name="android:textColor">@color/white</item>
+        <item name="android:textSize">16dip</item>
+        <!--  <item name="android:layout_marginTop">10dp</item>-->
+        <item name="android:layout_marginBottom">10dp</item>
+    </style>
+    <!-- 防止欢迎页白屏或者黑屏，设置图片 -->
+    <style name="SplashTheme" parent="AppTheme">
+        <item name="android:windowBackground">@mipmap/launch</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <!--去掉标题栏-->
+    <style name="notitle">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+    <!--自适应房多个Textview-->
+    <declare-styleable name="AutoLineFeedLayout">
+        <attr name="debug" format="boolean"></attr>
+
+        <attr name="paddingLeft" format="reference|dimension"/>
+        <attr name="paddingRight" format="reference|dimension"/>
+        <attr name="paddingTop" format="reference|dimension"/>
+        <attr name="paddingBottom" format="reference|dimension"/>
+
+        <attr name="verticalSpacing" format="reference|dimension"/>
+        <attr name="horizontalSpacing" format="reference|dimension"/>
+    </declare-styleable>
+</resources>

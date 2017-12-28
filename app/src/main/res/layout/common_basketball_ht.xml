@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:line="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical">
+
+    <!--胜负-->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:id="@+id/ht_lin1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <com.ssc2018.dqb.Draw.TableTextView
+                android:layout_width="0dp"
+                android:layout_height="33dp"
+                android:layout_weight="0.5"
+                android:gravity="center"
+                android:text="胜负"
+                android:textColor="@color/black_666"
+                android:textSize="12sp"
+                line:down_line="2"
+                line:left_line="2"
+                line:right_line="2"
+                line:up_line="2" />
+
+            <com.ssc2018.dqb.Draw.TableTextView
+                android:layout_width="0dp"
+                android:layout_height="33dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="--"
+                android:textColor="@color/black_666"
+                android:textSize="12sp"
+                line:down_line="2"
+                line:isClick="true"
+                line:right_line="1"
+                line:up_line="2" />
+
+
+            <com.ssc2018.dqb.Draw.TableTextView
+                android:layout_width="0dp"
+                android:layout_height="33dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="--"
+                android:textColor="@color/black_666"
+                android:textSize="12sp"
+                line:down_line="2"
+                line:isClick="true"
+                line:left_line="1"
+                line:right_line="2"
+                line:up_line="2" />
+        </LinearLayout>
+
+        <com.ssc2018.dqb.Draw.TableTextView
+            android:id="@+id/htsf_visbletv"
+            android:layout_width="match_parent"
+            android:layout_height="33dp"
+            android:gravity="center"
+            android:text="暂无出售"
+            android:textColor="@color/grey"
+            android:textSize="12sp"
+            android:visibility="gone"
+            line:down_line="2"
+            line:left_line="2"
+            line:right_line="2"
+            line:up_line="2" />
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <!--让分胜负-->
+        <LinearLayout
+            android:id="@+id/ht_lin2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <com.ssc2018.dqb.Draw.TableTextView
+                android:id="@+id/tableTextView_rq"
+                android:layout_width="0dp"
+                android:layout_height="33dp"
+                android:layout_weight="0.5"
+                android:clickable="false"
+                android:gravity="center"
+                android:text="让分"
+                android:background="@color/light_red_bg"
+                android:textColor="@color/light_red_text"
+                android:textSize="12sp"
+                line:down_line="2"
+                line:left_line="2"
+                line:right_line="2" />
+
+            <com.ssc2018.dqb.Draw.TableTextView
+                android:layout_width="0dp"
+                android:layout_height="33dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="--"
+                android:textColor="@color/black_666"
+                android:textSize="12sp"
+                line:down_line="2"
+                line:isClick="true"
+                line:right_line="1" />
+
+
+            <com.ssc2018.dqb.Draw.TableTextView
+                android:layout_width="0dp"
+                android:layout_height="33dp"
+                android:layout_weight="1"
+                android:gravity="center"
+                android:text="--"
+                android:textColor="@color/black_666"
+                android:textSize="12sp"
+                line:down_line="2"
+                line:isClick="true"
+                line:left_line="1"
+                line:right_line="2" />
+        </LinearLayout>
+
+        <com.ssc2018.dqb.Draw.TableTextView
+            android:id="@+id/htrfsf_visbletv"
+            android:layout_width="match_parent"
+            android:layout_height="33dp"
+            android:gravity="center"
+            android:text="暂无出售"
+            android:textColor="@color/grey"
+            android:textSize="12sp"
+            android:visibility="gone"
+            line:down_line="2"
+            line:left_line="2"
+            line:right_line="2"
+            line:up_line="2" />
+
+    </RelativeLayout>
+
+
+</merge>

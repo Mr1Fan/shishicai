@@ -1,0 +1,30 @@
+{
+    "code":"1",
+    "message":"success",
+    "data":[
+        {
+            "createtime":"10-25 17:50 截止",
+            "team":"天皇杯",
+            "zigou":"204元",
+            "benshu":"1.2倍",
+            "gendan":"0人",
+            "header":"http://cp-quanzi.nos.netease.com/quanzi/200-200_1164870_1423652708706_8211.jpg",
+            "content":"竞彩足球精选方案！",
+            "nickname":"红单狙击大队",
+            "nums":"1"
+        },
+ {
+            "createtime":"10-25 21:30 截止",
+            "team":"精选赛事",
+            "zigou":"234元",
+            "benshu":"1.3倍",
+            "gendan":"0人",
+            "header":"http://cp-quanzi.nos.netease.com/quanzi/200-200_1164870_1423652708706_8211.jpg",
+            "content":"竞彩足球精选方案！",
+            "nickname":"神秘微笑",
+            "nums":"1"
+        }
+    ],
+    "seqId":"wWemWsaC",
+    "total":0
+}

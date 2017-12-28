@@ -1,0 +1,177 @@
+{
+    "code": "1",
+    "message": "success",
+    "data": [
+        {
+            "match_time": "2017-07-05",
+            "play_list": [
+                {
+                    "begin_time": "周四301",
+                    "dxf_zf": "",
+                    "end_buy_time": "17-07-14 10:15",
+                    "end_time": "2017-07-13",
+                    "game_day": "0017-07-14",
+                    "game_id": "95747",
+                    "game_no": "周四301",
+                    "game_time": "17-07-14 10:30",
+                    "guest_team": "康涅狄格太阳",
+                    "guest_team_single": "太阳",
+                    "host_team": "洛杉矶火花",
+                    "host_team_single": "火花",
+                    "is_postponed": "",
+                    "jclq_dxf": [
+                        "+167.50",
+                        "1.75",
+                        "1.75",
+                        "2"
+                    ],
+                    "jclq_dxfsf": [
+                        "3.60",
+                        "1.15",
+                        "2"
+                    ],
+                    "jclq_rfsf": [
+                      "-7.50",
+                      "1.75",
+                      "1.75",
+                      "2"
+                    ],
+                    "jclq_sfc": [
+                        "6.65",
+                        "7.60",
+                        "16.50",
+                        "38.00",
+                        "80.00",
+                        "100.0",
+                        "4.35",
+                        "3.40",
+                        "4.20",
+                        "6.80",
+                        "12.00",
+                        "13.50",
+                        "1",
+                        "1"
+                    ],
+                    "league_id": "",
+                    "league_name": "美国女子篮球联盟",
+                    "rfsf_rf": "",
+                    "single_dxf": "0",
+                    "single_rfsf": "0",
+                    "single_sf": "0",
+                    "single_sfc": "1",
+                    "week_day": ""
+                },
+                {
+                    "begin_time": "周四302",
+                    "dxf_zf": "",
+                    "end_buy_time": "17-07-14 10:15",
+                    "end_time": "2017-07-13",
+                    "game_day": "0017-07-14",
+                    "game_id": "95748",
+                    "game_no": "周四301",
+                    "game_time": "17-07-14 10:30",
+                    "guest_team": "康涅狄格太阳",
+                    "guest_team_single": "太阳",
+                    "host_team": "洛杉矶火花",
+                    "host_team_single": "火花",
+                    "is_postponed": "",
+                    "jclq_dxf": [
+                        "+167.50",
+                        "1.75",
+                        "1.75",
+                        "2"
+                    ],
+                    "jclq_dxfsf": [ "3.60",
+                                   "1.15",
+                                   "2"],
+                    "jclq_rfsf": [
+                        "-7.50",
+                        "1.75",
+                        "1.75",
+                        "2"
+                    ],
+                    "jclq_sfc": [
+                        "6.65",
+                        "7.60",
+                        "16.50",
+                        "38.00",
+                        "80.00",
+                        "100.0",
+                        "4.35",
+                        "3.40",
+                        "4.20",
+                        "6.80",
+                        "12.00",
+                        "13.50",
+                        "1",
+                        "1"
+                    ],
+                    "league_id": "",
+                    "league_name": "美国女子篮球联盟",
+                    "rfsf_rf": "",
+                    "single_dxf": "0",
+                    "single_rfsf": "0",
+                    "single_sf": "0",
+                    "single_sfc": "1",
+                    "week_day": ""
+                },
+             {
+                 "begin_time": "周四303",
+                 "dxf_zf": "",
+                 "end_buy_time": "17-07-14 10:15",
+                 "end_time": "2017-07-13",
+                 "game_day": "0017-07-14",
+                 "game_id": "95748",
+                 "game_no": "周四301",
+                 "game_time": "17-07-14 10:30",
+                 "guest_team": "康涅狄格太阳",
+                 "guest_team_single": "太阳",
+                 "host_team": "洛杉矶火花",
+                 "host_team_single": "火花",
+                 "is_postponed": "",
+                 "jclq_dxf": [
+                     "+167.50",
+                     "1.75",
+                     "1.75",
+                     "2"
+                 ],
+                 "jclq_dxfsf": [ "3.60",
+                                "1.15",
+                                "2"],
+                 "jclq_rfsf": [
+                     "-7.50",
+                     "1.75",
+                     "1.75",
+                     "2"
+                 ],
+                 "jclq_sfc": [
+                     "6.65",
+                     "7.60",
+                     "16.50",
+                     "38.00",
+                     "80.00",
+                     "100.0",
+                     "4.35",
+                     "3.40",
+                     "4.20",
+                     "6.80",
+                     "12.00",
+                     "13.50",
+                     "1",
+                     "1"
+                 ],
+                 "league_id": "",
+                 "league_name": "美国女子篮球联盟",
+                 "rfsf_rf": "",
+                 "single_dxf": "0",
+                 "single_rfsf": "0",
+                 "single_sf": "0",
+                 "single_sfc": "1",
+                 "week_day": ""
+             }
+            ]
+        }
+    ],
+    "seqId": "VQMUkRu1",
+    "total": 0
+}

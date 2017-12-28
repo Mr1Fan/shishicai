@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/gray_f5"
+    android:orientation="vertical">
+
+    <include layout="@layout/layout_common_title"></include>
+
+    <EditText
+        android:id="@+id/idea_edit"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:layout_margin="25dp"
+        android:background="@drawable/gray_radius_bg"
+        android:gravity="left|top"
+        android:paddingLeft="12dp"
+        android:paddingTop="10dp"
+        android:text=""
+        android:textColor="@color/black_333"
+        android:textSize="14sp" />
+
+    <Button
+        android:id="@+id/submit_btn"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:layout_marginBottom="50dp"
+        android:layout_marginLeft="25dp"
+        android:layout_marginRight="25dp"
+        android:layout_marginTop="30dp"
+        android:background="@drawable/lottery_type_select_bg"
+        android:gravity="center"
+        android:text="提 交"
+        android:textColor="@color/white"
+        android:textSize="16sp" />
+
+</LinearLayout>

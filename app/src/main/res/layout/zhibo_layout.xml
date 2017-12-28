@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+    <RelativeLayout
+        android:id="@+id/footRe"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/pink_btn_clicked"
+        android:padding="15dp">
+
+        <ImageView
+            android:id="@+id/find_footImags"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:paddingLeft="80dp"
+            android:src="@mipmap/zuqiuzhibo" />
+
+        <TextView
+            android:id="@+id/findfoottv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@+id/find_footImags"
+            android:text="足球直播"
+            android:textColor="@color/black_666"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/findfoottv"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="8dp"
+            android:layout_toRightOf="@+id/find_footImags"
+            android:text="即时比分,随时了解比赛情况"
+            android:textColor="@color/black_666"
+            android:textSize="12sp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:src="@mipmap/right_to" />
+
+    </RelativeLayout>
+
+
+    <RelativeLayout
+        android:id="@+id/basketRe"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/pink_btn_clicked"
+        android:padding="15dp">
+
+        <ImageView
+            android:id="@+id/find_baskImags"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:paddingLeft="80dp"
+            android:src="@mipmap/lanqiuzhibo" />
+
+        <TextView
+            android:id="@+id/findbaskettv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@+id/find_baskImags"
+            android:text="篮球直播"
+            android:textColor="@color/black_666"
+            android:textSize="15sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/findbaskettv"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="8dp"
+            android:layout_toRightOf="@+id/find_baskImags"
+            android:text="即时比分,第一手赛况全掌握"
+            android:textColor="@color/black_666"
+            android:textSize="12sp" />
+
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:src="@mipmap/right_to" />
+
+    </RelativeLayout>
+
+
+</LinearLayout>

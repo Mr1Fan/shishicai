@@ -1,0 +1,98 @@
+{
+    "code":"1",
+    "message":"success",
+    "data":[{
+           	"uid": "10976910",
+           	"allnum": "4",
+           	"imageUrl": "/upload/userPic/10976910_1.png",
+           	"nickname": "七叔带你赢",
+           	"hitcount": "4",
+           	"canCopyNum": 0,
+           	"hitnum": "4",
+           	"ishot": 0
+           }, {
+           	"uid": "11221397",
+           	"allnum": "4",
+           	"imageUrl": "",
+           	"nickname": "竞彩神射手",
+           	"hitcount": "4",
+           	"canCopyNum": 0,
+           	"hitnum": "4",
+           	"ishot": 0
+           }, {
+           	"uid": "10992956",
+           	"allnum": "4",
+           	"imageUrl": "/upload/userPic/10992956_1.png",
+           	"nickname": "专职赌球",
+           	"hitcount": "4",
+           	"canCopyNum": 1,
+           	"hitnum": "4",
+           	"ishot": 1
+           }, {
+           	"uid": "10880896",
+           	"allnum": "7",
+           	"imageUrl": "/upload/userPic/10880896_1.png",
+           	"nickname": "世上足球",
+           	"hitcount": "6",
+           	"canCopyNum": 1,
+           	"hitnum": "6",
+           	"ishot": 1
+           }, {
+           	"uid": "11268608",
+           	"allnum": "6",
+           	"imageUrl": "/upload/userPic/11268608_1.png",
+           	"nickname": "3000x365",
+           	"hitcount": "5",
+           	"canCopyNum": 1,
+           	"hitnum": "5",
+           	"ishot": 0
+           }, {
+           	"uid": "10961144",
+           	"allnum": "5",
+           	"imageUrl": "/upload/userPic/10961144_8.png",
+           	"nickname": "来159必发",
+           	"hitcount": "4",
+           	"canCopyNum": 1,
+           	"hitnum": "4",
+           	"ishot": 1
+           }, {
+           	"uid": "10856706",
+           	"allnum": "8",
+           	"imageUrl": "",
+           	"nickname": "森林哥",
+           	"hitcount": "6",
+           	"canCopyNum": 0,
+           	"hitnum": "6",
+           	"ishot": 0
+           }, {
+           	"uid": "10824684",
+           	"allnum": "4",
+           	"imageUrl": "",
+           	"nickname": "Dota卡卡",
+           	"hitcount": "3",
+           	"canCopyNum": 0,
+           	"hitnum": "3",
+           	"ishot": 1
+           }, {
+           	"uid": "11003604",
+           	"allnum": "4",
+           	"imageUrl": "",
+           	"nickname": "赢天下之无帝",
+           	"hitcount": "3",
+           	"canCopyNum": 0,
+           	"hitnum": "3",
+           	"ishot": 0
+           }, {
+           	"uid": "11290809",
+           	"allnum": "4",
+           	"imageUrl": "",
+           	"nickname": "独家竞彩",
+           	"hitcount": "3",
+           	"canCopyNum": 0,
+           	"hitnum": "3",
+           	"ishot": 0
+           }]
+,
+    "seqId":"wWemWsaC",
+    "total":0
+}

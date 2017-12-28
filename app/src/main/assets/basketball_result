@@ -1,0 +1,26 @@
+ {
+   "code":"1",
+    "message":"success",
+    "data":[
+        {
+            "match_time":"2017-09-25",
+            "play_list":[
+                {
+                    "gameId":"周日301",
+                    "gameTime":"2017-09-25",
+                    "gameType":"美职女篮",
+                    "hostAndTeam":"火花VS天猫",
+                    "id":"98697",
+                    "jclq_bf":"85:84",
+                    "jclq_dxf":"暂无数据",
+                    "jclq_rfsf":"暂无数据",
+                    "jclq_sf":"暂无数据",
+                    "jclq_sfc":"客胜1-5",
+                    "state":"已完成"
+                }
+            ]
+        }
+    ],
+    "seqId":"ejGqg9PJ",
+    "total":0
+}

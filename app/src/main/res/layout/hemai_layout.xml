@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white"
+    android:orientation="vertical">
+    <include layout="@layout/layout_common_title" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="什么是合买?"
+        android:textColor="@color/black_333"
+        android:textSize="13dip"
+        android:padding="10dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="合买是指由两个或两个以上共同出资购买彩票,方案发起人在发起时可以规定每份的金额,参与者可根据自身意愿认购至少一份以上的彩票,又能提高参与者的中奖几率,降低个人全购金额彩票的风险."
+        android:textColor="@color/black_666"
+        android:textSize="13dip"
+        android:padding="10dp"
+        />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/gray_cc"
+        >
+    </View>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="如何参与合买?"
+        android:textColor="@color/black_333"
+        android:textSize="13dip"
+        android:padding="10dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="在合买大厅,根据合买规则的条件进行筛选后,选择合适自己的合买方案参与认购,至少为1份."
+        android:textColor="@color/black_666"
+        android:textSize="13dip"
+        android:padding="10dp"
+        />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/gray_cc"
+        >
+
+    </View>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="什么是合买保底?"
+        android:textColor="@color/black_333"
+        android:textSize="13dip"
+        android:padding="10dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="是指发起人在发起合买时承诺的认购金额,只有当方案未满员时保底才能生效,如果方案认购达到100%时发起人的保底金额将返还到账户中确保合买成功"
+        android:textColor="@color/black_666"
+        android:textSize="13dip"
+        android:padding="10dp"
+        />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:background="@color/gray_cc"
+        >
+
+    </View>
+
+
+
+</LinearLayout>

@@ -1,0 +1,64 @@
+{
+    "code":"1",
+    "message":"success",
+    "data":[
+        {
+            "createtime":"2017-09-25 02:28:23",
+            "detailtype":3,
+            "id":125,
+            "state":"0",
+            "ordertype":"1",
+            "price":"2"
+        },
+        {
+            "createtime":"2017-09-24 02:28:23",
+            "detailtype":2,
+            "id":125,
+            "state":"0",
+            "ordertype":"1",
+            "price":"2"
+        },
+        {
+            "createtime":"2017-09-24 02:28:23",
+            "detailtype":5,
+            "id":125,
+            "state":"0",
+            "ordertype":"1",
+            "price":"3"
+        },
+        {
+            "createtime":"2017-09-25 02:28:23",
+            "detailtype":3,
+            "id":125,
+            "state":"0",
+            "ordertype":"1",
+            "price":"4"
+        },
+        {
+            "createtime":"2017-09-25 02:28:23",
+            "detailtype":3,
+            "id":125,
+            "state":"0",
+            "ordertype":"1",
+            "price":"26"
+        },
+        {
+            "createtime":"2017-09-25 02:28:23",
+            "detailtype":3,
+            "id":125,
+            "state":"0",
+            "ordertype":"1",
+            "price":"12.24"
+        },
+        {
+            "createtime":"2017-09-25 02:28:23",
+            "detailtype":1,
+            "id":125,
+            "state":"0",
+            "ordertype":"1",
+            "price":"10"
+        }
+    ],
+    "seqId":"wWemWsaC",
+    "total":0
+}

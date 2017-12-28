@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">时时彩2018地区版</string>
+    <string name="action_settings">设置</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="drawer_open">打开</string>
+    <string name="drawer_close">关闭</string>
+</resources>

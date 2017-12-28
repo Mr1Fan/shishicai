@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:background="@color/pink_bg"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:paddingBottom="10dp"
+        >
+
+        <LinearLayout
+            android:id="@+id/flag_ll"
+            android:layout_width="65dp"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/data_ll"
+            android:layout_marginLeft="3dp"
+            android:orientation="vertical">
+
+            <include layout="@layout/layout_game_des"/>
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/flag_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@id/data_ll"
+            android:weightSum="1"
+            android:paddingBottom="7dp"
+            android:paddingTop="10dp">
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.12"
+                android:gravity="center"
+                android:text="让球"
+                android:textColor="@color/grey"
+                android:textSize="12sp" />
+
+            <TextView
+                android:id="@+id/host_name"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:layout_weight="0.23"
+                android:text="挪威挪威"
+                android:textColor="@color/black_666"
+                android:textSize="15sp" />
+
+            <TextView
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.22"
+                android:gravity="center"
+                android:text="VS"
+                android:textColor="@color/yellow"
+                android:textSize="15sp" />
+
+            <TextView
+                android:id="@+id/guest_name"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="0.22"
+                android:gravity="center"
+                android:text="挪威"
+                android:textColor="@color/black_666"
+                android:textSize="15sp" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:id="@+id/data_ll"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/flag_title"
+            android:layout_marginLeft="3dp"
+            android:layout_toRightOf="@id/flag_ll"
+            android:orientation="vertical">
+
+            <include layout="@layout/layout_table_football_spf_hhgg_list" />
+
+        </LinearLayout>
+    </RelativeLayout>
+
+    <include layout="@layout/item_football_item_history"></include>
+
+    <View
+        android:id="@+id/gray_bg"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="@color/gray_cc" />
+
+</LinearLayout>

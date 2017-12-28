@@ -1,0 +1,126 @@
+{
+    "code":"1",
+    "message":"success",
+    "data":[
+        {
+            "game_result":{
+                "gameId":"周四028",
+                "gameTime":"2017-09-15",
+                "gameType":"俱乐部杯",
+                "hostAndTeam":"圣菲独立(-1)VS亚自由",
+                "id":"98095",
+                "jczq_bf":"1:1",
+                "jczq_bqc":"负平",
+                "jczq_rqspf":"(-1)$负",
+                "jczq_spf":"平",
+                "jczq_zjq":"2",
+                "state":"已完成"
+            },
+            "game_type":"jczq"
+        },
+        {
+            "game_result":{
+                "gameId":"周四303",
+                "gameTime":"2017-09-15",
+                "gameType":"欧锦男篮",
+                "hostAndTeam":"斯洛文尼VS西班牙",
+                "id":"98104",
+                "jclq_bf":"92:72",
+                "jclq_dxf":">162.5",
+                "jclq_rfsf":"(-8.5)$让分主负",
+                "jclq_sf":"主 负",
+                "jclq_sfc":"客胜16-20",
+                "state":"已完成"
+            },
+            "game_type":"jclq"
+        },
+         {
+             "game_result":{
+             "gameId":"周四028",
+             "gameTime":"2017-09-4",
+             "gameType":"俱乐部杯",
+             "hostAndTeam":"科尔多瓦(0)VS萨拉戈萨",
+             "id":"98095",
+             "jczq_bf":"1:2",
+             "jczq_bqc":"负平",
+             "jczq_rqspf":"(-1)$负",
+             "jczq_spf":"平",
+             "jczq_zjq":"2",
+             "state":"已完成"
+                     },
+         "game_type":"bjdc"
+        },
+         {
+         "game_result":{
+            "gameId":"周四303",
+            "gameTime":"2017-09-15",
+            "gameType":"欧锦男篮",
+            "hostAndTeam":"天空(-1.5)VS风暴",
+            "id":"98104",
+            "jclq_bf":"80:85",
+            "jclq_dxf":">162.5",
+            "jclq_rfsf":"(-8.5)$让分主负",
+            "jclq_sf":"主 负",
+            "jclq_sfc":"客胜16-20",
+            "state":"已完成"
+                    },
+        "game_type":"sfgg"
+                },
+        {
+            "game_result":{
+                "dateline":"2017-09-19",
+                "issue":"2017255",
+                "url":"http://47.92.136.159:8080",
+                "winnum":"5 2 1"
+            },
+            "game_type":"ThreeD"
+        },
+        {
+            "game_result":{
+                "dateline":"2017-09-16 17:30:00",
+                "issue":"17091653",
+                "url":"http://47.92.136.159:8080/api-doc/explain/chooseFive_prize.html",
+                "winnum":"02 10 01 11 03"
+            },
+            "game_type":"ChooseFive"
+        },
+        {
+            "game_result":{
+                "dateline":"2017-09-19",
+                "issue":"17255",
+                "url":"http://47.92.136.159:8080",
+                "winnum":"9 4 8"
+            },
+            "game_type":"ArrayThree"
+        },
+        {
+            "game_result":{
+                "dateline":"2017-09-14",
+                "issue":"17250",
+                "url":"http://47.92.136.159:8080",
+                "winnum":"8 5 6 0 8"
+            },
+            "game_type":"ArrayFive"
+        },
+        {
+            "game_result":{
+                "dateline":"2017-09-18",
+                "issue":"17109",
+                "url":"http://47.92.136.159:8080",
+                "winnum":"06 09 19 26 34,05 07"
+            },
+            "game_type":"excel"
+        },
+        {
+            "game_result":{
+                "dateline":"2017-09-19",
+                "issue":"2017110",
+                "url":"http://47.92.136.159:8080",
+                "winnum":"01 03 12 15 19 23,14"
+            },
+            "game_type":"lotto"
+        }
+    ],
+    "seqId":"reXpZlu6",
+    "total":0
+}

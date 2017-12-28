@@ -1,0 +1,127 @@
+{
+    "rows":20,
+    "code":"fc3d",
+    "info":"免费接口随机延迟3-6分钟，实时接口请访问opencai.net或QQ:23081452(注明彩票或API)",
+    "data":[
+        {
+            "expect":"2017276",
+            "opencode":"8,8,7",
+            "opentime":"2017-10-10 21:20:00",
+            "opentimestamp":1507641600
+        },
+        {
+            "expect":"2017275",
+            "opencode":"8,9,8",
+            "opentime":"2017-10-09 21:20:00",
+            "opentimestamp":1507555200
+        },
+        {
+            "expect":"2017274",
+            "opencode":"9,4,4",
+            "opentime":"2017-10-08 21:20:00",
+            "opentimestamp":1507468800
+        },
+        {
+            "expect":"2017273",
+            "opencode":"2,6,7",
+            "opentime":"2017-10-07 21:20:00",
+            "opentimestamp":1507382400
+        },
+        {
+            "expect":"2017272",
+            "opencode":"9,3,4",
+            "opentime":"2017-10-06 21:20:00",
+            "opentimestamp":1507296000
+        },
+        {
+            "expect":"2017271",
+            "opencode":"4,2,8",
+            "opentime":"2017-10-05 21:20:00",
+            "opentimestamp":1507209600
+        },
+        {
+            "expect":"2017270",
+            "opencode":"1,3,5",
+            "opentime":"2017-10-04 21:20:00",
+            "opentimestamp":1507123200
+        },
+        {
+            "expect":"2017269",
+            "opencode":"9,3,8",
+            "opentime":"2017-10-03 21:20:00",
+            "opentimestamp":1507036800
+        },
+        {
+            "expect":"2017268",
+            "opencode":"5,7,8",
+            "opentime":"2017-10-02 21:20:00",
+            "opentimestamp":1506950400
+        },
+        {
+            "expect":"2017267",
+            "opencode":"7,7,0",
+            "opentime":"2017-10-01 21:20:00",
+            "opentimestamp":1506864000
+        },
+        {
+            "expect":"2017266",
+            "opencode":"2,0,3",
+            "opentime":"2017-09-30 21:20:00",
+            "opentimestamp":1506777600
+        },
+        {
+            "expect":"2017265",
+            "opencode":"3,7,2",
+            "opentime":"2017-09-29 21:20:00",
+            "opentimestamp":1506691200
+        },
+        {
+            "expect":"2017264",
+            "opencode":"9,3,3",
+            "opentime":"2017-09-28 21:20:00",
+            "opentimestamp":1506604800
+        },
+        {
+            "expect":"2017263",
+            "opencode":"6,7,2",
+            "opentime":"2017-09-27 21:20:00",
+            "opentimestamp":1506518400
+        },
+        {
+            "expect":"2017262",
+            "opencode":"9,1,2",
+            "opentime":"2017-09-26 21:20:00",
+            "opentimestamp":1506432000
+        },
+        {
+            "expect":"2017261",
+            "opencode":"6,8,6",
+            "opentime":"2017-09-25 21:20:00",
+            "opentimestamp":1506345600
+        },
+        {
+            "expect":"2017260",
+            "opencode":"0,9,5",
+            "opentime":"2017-09-24 21:20:00",
+            "opentimestamp":1506259200
+        },
+        {
+            "expect":"2017259",
+            "opencode":"4,8,1",
+            "opentime":"2017-09-23 21:20:00",
+            "opentimestamp":1506172800
+        },
+        {
+            "expect":"2017258",
+            "opencode":"3,6,1",
+            "opentime":"2017-09-22 21:20:00",
+            "opentimestamp":1506086400
+        },
+        {
+            "expect":"2017257",
+            "opencode":"2,3,4",
+            "opentime":"2017-09-21 21:20:00",
+            "opentimestamp":1506000000
+        }
+    ]
+}
